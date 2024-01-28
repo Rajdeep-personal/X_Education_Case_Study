@@ -6,3 +6,5 @@ X Education sells online courses to industry professionals. Everyday many profes
 Univariate and Bi-variate Analysis
 # Data Preprocessing:
 For Numerical Data Preprocessing Min-Max Scaling was done and for Categorical Data, Dummy Encoding was done.
+# Model Building:
+As it's a classification problem, we used Logistic Regression to solve the problem.
